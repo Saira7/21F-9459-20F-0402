@@ -10,5 +10,8 @@ public class Calculator {
 	double sub(double num,double num1) {
 		return num-num1;
 	}
-
+	
+	double mul(double num,double num1) {
+		return num*num1;
+	}
 }
